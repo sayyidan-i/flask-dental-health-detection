@@ -54,6 +54,11 @@ This project is a web application for dental health detection using an ONNX obje
 
 3. Upload an image and click the "Predict" button. The result image with bounding boxes will be displayed on the web page.
 
+## Example
+
+![Example Image](example.png)
+
+
 ## Project Structure
 
 ```
